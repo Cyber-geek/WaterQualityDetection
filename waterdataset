@@ -1,0 +1,20 @@
+Water quality index 	Data set  Min value 	Max value 	Mean value 	Standard deviation value     Coefficient of Variation/%
+pH 			48 	  7.62 		8.46 		7.97 		0.98 			     12.29
+TN 			48     	  0.24 mg/L 	7.06 mg/L 	1.54 mg/L 	1.28 mg/L 		     82.84
+BOD5 			48	  0.80 mg/L 	7.80 mg/L 	2.64 mg/L 	1.39 mg/L 		     52.66
+TP 			48 	  0.01 mg/L 	0.99 mg/L 	0.22 mg/L 	0.25 mg/L 		     116.15
+NH3 +-N 		48 	  0.01 mg/L 	9.21 mg/L 	0.62 mg/L 	1.95 mg/L 		     316.76
+COD 			48 	  0.70 mg/L 	174 mg/L 	136.70 mg/L 	347.57 mg/L 		     254.25
+Iron 			48 	  0.01 mg/L 	1.65 mg/L 	0.15 mg/L 	0.27 mg/L 		     179.85
+Copper 			48 	  0.01 mg/L 	1.98 mg/L 	0.33 mg/L 	0.51 mg/L 		     157.09
+Zinc 			48 	  0.01 mg/L 	3.31 mg/L 	0.45 mg/L 	0.59 mg/L 		     133.82
+DO 			48 	  1.40 mg/L 	10.4 mg/L 	6.18 mg/L 	1.80 mg/L 		     29.12
+TDS			48 	  89.41 mg/L 	9470 mg/L 	728.89 mg/L 	142.35 mg/L 		     19.52
+Ca 			48 	  42.80 mg/L 	1082.16 mg/L 	161.15 mg/L 	232.11 mg/L 		     144.02
+Mg 			48 	  8.50 mg/L 	3766.5 mg/L 	210.54 mg/L 	670.73 mg/L 		     318.56
+Na 			48 	  2.6 mg/L 	6750 mg/L 	479.74 mg/L 	1353.76 mg/L 		     282.18
+Cl− 			48 	  17.25 mg/L 	8838.57 mg/L 	555.17 mg/L 	1761.13 mg/L 		     317.22
+HCO3 − 			48 	  89.94 mg/L 	24324.13 mg/L 	1419.31 mg/L 	5091.52 mg/L 		     358.74
+SO4 2− 			48 	  4.803 mg/L 	8424 mg/L 	961.88 mg/L 	1657.12 mg/L 		     172.28
+PO4 3− 			48	  0 mg/L 	1.7 mg/L 	0.233 mg/L 	0.3589 mg/L 		     153.57
+Cr 			48 	  0.01 mg/L 	0.16 mg/L 	0.028 mg/L 	0.029 mg/L 		     102.47 
