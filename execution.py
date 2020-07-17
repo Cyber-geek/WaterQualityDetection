@@ -1,6 +1,6 @@
 import pandas as pd
 WQI_parameters = pd.read_csv('WaterQualityData.csv')
-df = pd.DataFrame(WQI_parameters, columns=["pH","TN",	"BOD5","TP",	"NH3+","COD", "Iron", "Copper", "Zinc","DO","TDS","Ca","Mg","Na","Cl-",	"HCO", "SO4", "PO4","Cr"])
+df = pd.DataFrame(WQI_parameters, columns=["pH","TN","BOD5","TP","NH3+","COD", "Iron", "Copper", "Zinc","DO","TDS","Ca","Mg","Na","Cl-","HCO", "SO4", "PO4","Cr"])
 print (df)
 
 df = df.fillna(0)
